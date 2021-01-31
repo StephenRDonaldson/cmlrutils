@@ -1,0 +1,8 @@
+Package: cmlrutils
+Version: 1.18
+License: Used as is with permission, no warranty expressed or implied
+Description: Utility functions from Code Magus Limited.
+Title: Code Magus Limited R Helper Functions
+Author: Stephen R Donaldson
+Maintainer: Stephen R Donaldson <stephen@codemagus.com>
+Depends: R (>= 3.1.0), ggplot2, scales, graphics, scales, grDevices, utils
